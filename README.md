@@ -2,7 +2,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Ericsson Augusto</h1>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ericssonaugustoo&color=yellow" alt="Profile views" /> </p> -->
 
-- 🔥 Bancário e Web Developer (freelance) estou trilhando o caminho pra Ditec 
+- 🔥 Bancário e Web Developer (freelance) trilhando o caminho pra Ditec 
 
 - 🔭 Trabalho no [Banco do Brasil](https://bb.com.br)
 

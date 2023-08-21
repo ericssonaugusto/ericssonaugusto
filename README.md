@@ -1,5 +1,5 @@
 <img align="right" height="490em" src="https://raw.githubusercontent.com/gist/ericssonaugusto/b8524d85494d0ec761df6dfb49fd4f92/raw/22e00049978b5f412b4212bfc0b7d68f04af183d/gitcard.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Ericsson Augusto</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Olá, eu sou Ericsson Augusto.</h1>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ericssonaugustoo&color=yellow" alt="Profile views" /> </p> -->
 
 - 🔥 Bancário | Desenvolvedor Web (Freelance) trilhando o caminho pra Ditec 

@@ -1,15 +1,16 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/ericssonaugusto/b8524d85494d0ec761df6dfb49fd4f92/raw/22e00049978b5f412b4212bfc0b7d68f04af183d/gitcard.svg"/>
+<img align="right" height="490em" src="https://raw.githubusercontent.com/gist/ericssonaugusto/b8524d85494d0ec761df6dfb49fd4f92/raw/22e00049978b5f412b4212bfc0b7d68f04af183d/gitcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Ericsson Augusto</h1>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ericssonaugustoo&color=yellow" alt="Profile views" /> </p> -->
 
-- 🔥 Bancário e Web Developer (freelance) estou trilhando o caminha da Ditec 
+- 🔥 Bancário e Web Developer (freelance) estou trilhando o caminho pra Ditec 
 
-- 🔭 I’m currently working at [Banco do Brasil](https://bb.com.br)
+- 🔭 Trabalho no [Banco do Brasil](https://bb.com.br)
 
 <!-- - ▶️ I (not) regularly post videos on [youtube.com/ifaugusto](https://youtube.com/ifAugsuto) -->
 
-- 💬 Ask me about **JavaScript, HTML, CSS, Wordpress**
+- 💬 Posso te ajudar com **JavaScript, HTML, CSS e Wordpress**
 
+- 👨‍💻 Estou estudando Python, Django... para Rotinas Automatizadas e Analytics
 <!-- - ⚡ Fun fact **Oneye 😜** 
 
 - 👨‍💻 More at [ericssonaugusto.com.br](https://ericssonaugusto.com.br) -->

@@ -46,11 +46,13 @@
 
 <p align="left" style="background:yellow">
 
-<a href="https://twitter.com/ifaugusto" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-ifaugusto-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
+
 <a href="https://linkedin.com/in/ericssonaugusto" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-ericssonaugusto-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<!--
+<a href="https://twitter.com/ifaugusto" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-ifaugusto-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 <a href="https://instagram.com/ifaugusto" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-ifaugusto-05122A?style=flat&logo=instagram" alt="instagram"/>
@@ -60,3 +62,4 @@
 </a>
 </p>
 
+-->

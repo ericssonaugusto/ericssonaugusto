@@ -1,4 +1,4 @@
-<img align="right" height="490em" src="https://raw.githubusercontent.com/gist/ericssonaugusto/11d4ea7050535014380c477bba7adedc/raw/7f75eb8267a7ae5db4353b9a9210b6d73bcb33a1/cardprofile.svg"/> 
+<!-- <img align="right" height="490em" src="https://raw.githubusercontent.com/gist/ericssonaugusto/11d4ea7050535014380c477bba7adedc/raw/7f75eb8267a7ae5db4353b9a9210b6d73bcb33a1/cardprofile.svg"/>  -->
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou Ericsson Augusto.</h1>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ericssonaugustoo&color=yellow" alt="Profile views" /> </p> -->
 
